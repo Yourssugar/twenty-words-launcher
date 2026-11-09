@@ -1,0 +1,449 @@
+{
+  "generatedAt": "2026-11-09T21:26:37.575Z",
+  "games": [
+    {
+      "id": "tetris",
+      "title": "Тетрис",
+      "kind": "game",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/games/tetris/index.html",
+      "description": "Собирайте линии из падающих фигур. Три стиля блоков и робот-помощник.",
+      "tags": [
+        "аркада"
+      ],
+      "color": "#6fe3f2",
+      "cover": "covers/tetris.webp",
+      "price": 0,
+      "version": "2026.11.9-2",
+      "download_url": "games/tetris-2026.11.9-2.zip",
+      "sha256": "0e9930ccb8fad061b9f4eb44645e6f292fb8f255b2c8028beeb6971ec2ab883a",
+      "size_mb": 17.3,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "i18n": {
+        "en": {
+          "title": "Tetris",
+          "description": "Clear lines with falling blocks. Three block styles and a robot helper.",
+          "tags": [
+            "arcade"
+          ]
+        },
+        "ru": {
+          "title": "Тетрис",
+          "description": "Собирайте линии из падающих фигур. Три стиля блоков и робот-помощник.",
+          "tags": [
+            "аркада"
+          ]
+        },
+        "de": {
+          "title": "Tetris",
+          "description": "Räume Reihen mit fallenden Blöcken ab. Drei Blockstile und ein Roboter-Helfer.",
+          "tags": [
+            "Arcade"
+          ]
+        },
+        "fr": {
+          "title": "Tetris",
+          "description": "Complétez des lignes avec des blocs qui tombent. Trois styles de blocs et un robot assistant.",
+          "tags": [
+            "arcade"
+          ]
+        },
+        "es": {
+          "title": "Tetris",
+          "description": "Completa líneas con bloques que caen. Tres estilos de bloques y un robot ayudante.",
+          "tags": [
+            "arcade"
+          ]
+        },
+        "it": {
+          "title": "Tetris",
+          "description": "Completa le linee con i blocchi che cadono. Tre stili di blocchi e un robot aiutante.",
+          "tags": [
+            "arcade"
+          ]
+        },
+        "pl": {
+          "title": "Tetris",
+          "description": "Układaj linie ze spadających klocków. Trzy style klocków i robot pomocnik.",
+          "tags": [
+            "zręcznościowe"
+          ]
+        }
+      }
+    },
+    {
+      "id": "wordle",
+      "title": "Угадай слово",
+      "kind": "game",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/games/wordle/index.html",
+      "description": "Угадайте слово из пяти букв за шесть попыток.",
+      "tags": [
+        "слова"
+      ],
+      "color": "#1fd47a",
+      "cover": "covers/wordle.webp",
+      "price": 0,
+      "version": "2026.11.9-2",
+      "download_url": "games/wordle-2026.11.9-2.zip",
+      "sha256": "c954392d646129122c22aa391238eeb1de4411dabf36c0ad88150354cbc56c77",
+      "size_mb": 17.4,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "i18n": {
+        "en": {
+          "title": "Guess the Word",
+          "description": "Guess the five-letter word in six tries.",
+          "tags": [
+            "words"
+          ]
+        },
+        "ru": {
+          "title": "Угадай слово",
+          "description": "Угадайте слово из пяти букв за шесть попыток.",
+          "tags": [
+            "слова"
+          ]
+        },
+        "de": {
+          "title": "Errate das Wort",
+          "description": "Errate das Wort mit fünf Buchstaben in sechs Versuchen.",
+          "tags": [
+            "Wörter"
+          ]
+        },
+        "fr": {
+          "title": "Devine le mot",
+          "description": "Devinez le mot de cinq lettres en six essais.",
+          "tags": [
+            "mots"
+          ]
+        },
+        "es": {
+          "title": "Adivina la palabra",
+          "description": "Adivina la palabra de cinco letras en seis intentos.",
+          "tags": [
+            "palabras"
+          ]
+        },
+        "it": {
+          "title": "Indovina la parola",
+          "description": "Indovina la parola di cinque lettere in sei tentativi.",
+          "tags": [
+            "parole"
+          ]
+        },
+        "pl": {
+          "title": "Zgadnij słowo",
+          "description": "Odgadnij pięcioliterowe słowo w sześciu próbach.",
+          "tags": [
+            "słowa"
+          ]
+        }
+      }
+    },
+    {
+      "id": "library",
+      "title": "Библиотека A.C.EON",
+      "kind": "book",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/library/index.html",
+      "description": "Книги студии со своей читалкой. Все книги библиотеки в одном месте.",
+      "tags": [
+        "книги"
+      ],
+      "color": "#b06cff",
+      "price": 0,
+      "version": "2026.11.8",
+      "download_url": "games/library-2026.11.8.zip",
+      "sha256": "4fa8986cae9c1263b9e7addab83ae9202416adcc86dcf5a72f9b9e79099cdb18",
+      "size_mb": 0.7,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "cover": "covers/library.webp",
+      "i18n": {
+        "en": {
+          "title": "A.C.EON Library",
+          "description": "The studio’s books with their own reader. All the books in one place.",
+          "tags": [
+            "books"
+          ]
+        },
+        "ru": {
+          "title": "Библиотека A.C.EON",
+          "description": "Книги студии со своей читалкой. Все книги библиотеки в одном месте.",
+          "tags": [
+            "книги"
+          ]
+        },
+        "de": {
+          "title": "A.C.EON Bibliothek",
+          "description": "Die Bücher des Studios mit eigenem Reader. Alle Bücher an einem Ort.",
+          "tags": [
+            "Bücher"
+          ]
+        },
+        "fr": {
+          "title": "Bibliothèque A.C.EON",
+          "description": "Les livres du studio avec leur propre liseuse. Tous les livres au même endroit.",
+          "tags": [
+            "livres"
+          ]
+        },
+        "es": {
+          "title": "Biblioteca A.C.EON",
+          "description": "Los libros del estudio con su propio lector. Todos los libros en un solo lugar.",
+          "tags": [
+            "libros"
+          ]
+        },
+        "it": {
+          "title": "Biblioteca A.C.EON",
+          "description": "I libri dello studio con il loro lettore. Tutti i libri in un unico posto.",
+          "tags": [
+            "libri"
+          ]
+        },
+        "pl": {
+          "title": "Biblioteka A.C.EON",
+          "description": "Książki studia z własnym czytnikiem. Wszystkie książki w jednym miejscu.",
+          "tags": [
+            "książki"
+          ]
+        }
+      }
+    },
+    {
+      "id": "solitaire",
+      "title": "Пасьянс",
+      "kind": "game",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/games/solitaire/index.html",
+      "description": "Карточный пасьянс.",
+      "tags": [
+        "карточные"
+      ],
+      "color": "#2ee87a",
+      "cover": "covers/solitaire.webp",
+      "price": 0,
+      "version": "2026.11.9-4",
+      "download_url": "games/solitaire-2026.11.9-4.zip",
+      "sha256": "3a9315e2c9408109a35d9e22eacb04c94c532462cdec9fa56daf2237ef1dbdc9",
+      "size_mb": 17.4,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "i18n": {
+        "en": {
+          "title": "Solitaire",
+          "description": "A classic card solitaire.",
+          "tags": [
+            "cards"
+          ]
+        },
+        "ru": {
+          "title": "Пасьянс",
+          "description": "Карточный пасьянс.",
+          "tags": [
+            "карточные"
+          ]
+        },
+        "de": {
+          "title": "Solitär",
+          "description": "Ein klassisches Karten-Solitär.",
+          "tags": [
+            "Kartenspiele"
+          ]
+        },
+        "fr": {
+          "title": "Solitaire",
+          "description": "Un solitaire de cartes classique.",
+          "tags": [
+            "cartes"
+          ]
+        },
+        "es": {
+          "title": "Solitario",
+          "description": "Un solitario de cartas clásico.",
+          "tags": [
+            "de cartas"
+          ]
+        },
+        "it": {
+          "title": "Solitario",
+          "description": "Un classico solitario di carte.",
+          "tags": [
+            "di carte"
+          ]
+        },
+        "pl": {
+          "title": "Pasjans",
+          "description": "Klasyczny pasjans karciany.",
+          "tags": [
+            "karciane"
+          ]
+        }
+      }
+    },
+    {
+      "id": "checkers",
+      "title": "Шашки",
+      "kind": "game",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/games/checkers/index.html",
+      "description": "Шашки против бота разной сложности или вдвоём на одном компьютере.",
+      "tags": [
+        "настольные"
+      ],
+      "color": "#ff5a6a",
+      "cover": "covers/checkers.webp",
+      "price": 0,
+      "version": "2026.11.9-2",
+      "download_url": "games/checkers-2026.11.9-2.zip",
+      "sha256": "5706549849de5d2221ae4e6237c958888cc86c5348e1b0eea92d09464d174814",
+      "size_mb": 17.3,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "i18n": {
+        "en": {
+          "title": "Checkers",
+          "description": "Checkers against a bot of different difficulty or with a friend on one computer.",
+          "tags": [
+            "board"
+          ]
+        },
+        "ru": {
+          "title": "Шашки",
+          "description": "Шашки против бота разной сложности или вдвоём на одном компьютере.",
+          "tags": [
+            "настольные"
+          ]
+        },
+        "de": {
+          "title": "Dame",
+          "description": "Dame gegen einen Bot mit verschiedenen Schwierigkeitsstufen oder zu zweit an einem Computer.",
+          "tags": [
+            "Brettspiele"
+          ]
+        },
+        "fr": {
+          "title": "Dames",
+          "description": "Les dames contre un bot de différents niveaux ou à deux sur un même ordinateur.",
+          "tags": [
+            "plateau"
+          ]
+        },
+        "es": {
+          "title": "Damas",
+          "description": "Damas contra un bot de distinta dificultad o entre dos en un mismo ordenador.",
+          "tags": [
+            "de mesa"
+          ]
+        },
+        "it": {
+          "title": "Dama",
+          "description": "Dama contro un bot di varia difficoltà o in due sullo stesso computer.",
+          "tags": [
+            "da tavolo"
+          ]
+        },
+        "pl": {
+          "title": "Warcaby",
+          "description": "Warcaby z botem o różnym poziomie trudności lub we dwoje na jednym komputerze.",
+          "tags": [
+            "planszowe"
+          ]
+        }
+      }
+    },
+    {
+      "id": "chess",
+      "title": "Шахматы",
+      "kind": "game",
+      "type": "html",
+      "source": "site",
+      "entry": "A.C.EON/games/chess/index.html",
+      "description": "Шахматы против компьютера или вдвоём.",
+      "tags": [
+        "настольные"
+      ],
+      "color": "#ffd23a",
+      "cover": "covers/chess.webp",
+      "price": 0,
+      "version": "2026.11.9-2",
+      "download_url": "games/chess-2026.11.9-2.zip",
+      "sha256": "58fbae7158437101f292fe073265738b12b6aa12d733fa50a7ba49d0144aae98",
+      "size_mb": 17.7,
+      "window": {
+        "width": 1280,
+        "height": 800
+      },
+      "i18n": {
+        "en": {
+          "title": "Chess",
+          "description": "Chess against the computer or with a friend.",
+          "tags": [
+            "board"
+          ]
+        },
+        "ru": {
+          "title": "Шахматы",
+          "description": "Шахматы против компьютера или вдвоём.",
+          "tags": [
+            "настольные"
+          ]
+        },
+        "de": {
+          "title": "Schach",
+          "description": "Schach gegen den Computer oder zu zweit.",
+          "tags": [
+            "Brettspiele"
+          ]
+        },
+        "fr": {
+          "title": "Échecs",
+          "description": "Les échecs contre l’ordinateur ou à deux.",
+          "tags": [
+            "plateau"
+          ]
+        },
+        "es": {
+          "title": "Ajedrez",
+          "description": "Ajedrez contra el ordenador o entre dos.",
+          "tags": [
+            "de mesa"
+          ]
+        },
+        "it": {
+          "title": "Scacchi",
+          "description": "Scacchi contro il computer o in due.",
+          "tags": [
+            "da tavolo"
+          ]
+        },
+        "pl": {
+          "title": "Szachy",
+          "description": "Szachy z komputerem lub we dwoje.",
+          "tags": [
+            "planszowe"
+          ]
+        }
+      }
+    }
+  ]
+}

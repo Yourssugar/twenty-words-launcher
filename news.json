@@ -1,0 +1,25 @@
+{
+  "items": [
+    {
+      "date": "2026-11-08",
+      "title": {
+        "ru": "Лаунчер обновился",
+        "en": "The launcher has been updated",
+        "de": "Der Launcher wurde aktualisiert",
+        "fr": "Le lanceur a été mis à jour",
+        "es": "El launcher se ha actualizado",
+        "it": "Il launcher è stato aggiornato",
+        "pl": "Launcher został zaktualizowany"
+      },
+      "text": {
+        "ru": "Новые аватары профиля, вся музыка A.C.EON Studio в фоне и новости студии на главной.",
+        "en": "New profile avatars, all A.C.EON Studio music in the background and studio news on the home page.",
+        "de": "Neue Profil-Avatare, die ganze Musik von A.C.EON Studio im Hintergrund und Studio-News auf der Startseite.",
+        "fr": "Nouveaux avatars de profil, toute la musique d'A.C.EON Studio en fond et les actualités du studio sur l'accueil.",
+        "es": "Nuevos avatares de perfil, toda la música de A.C.EON Studio de fondo y noticias del estudio en la portada.",
+        "it": "Nuovi avatar del profilo, tutta la musica di A.C.EON Studio in sottofondo e le novità dello studio in home.",
+        "pl": "Nowe awatary profilu, cała muzyka A.C.EON Studio w tle i aktualności studia na stronie głównej."
+      }
+    }
+  ]
+}
